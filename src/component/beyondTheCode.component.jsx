@@ -47,7 +47,7 @@ export default function BeyondTheCode() {
           Journey Timeline
         </button>
 
-        {/* <button
+        <button
           onClick={() => setActiveTab("articles")}
           className={`px-6 py-3 rounded-xl font-semibold transition-all duration-300 ${
             activeTab === "articles"
@@ -56,7 +56,7 @@ export default function BeyondTheCode() {
           }`}
         >
           Articles
-        </button> */}
+        </button>
         
       </div>
 
