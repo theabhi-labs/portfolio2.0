@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+.Fira_Code {
+  font-family: 'Fira Code', monospace;
+}
+
+.JetBrains_Mono{
+  font-family: 'JetBrains Mono';
+}
+
+.Hero{
+   background: linear-gradient(135deg, #0d0d0d, #1a1a1a);
+   /* background: red; */
+}
+
+.Zalando_ans_Expanded{
+  font-family: 'Zalando Sans Expanded';
+}
+
+html {
+  scroll-behavior: smooth;
+}
